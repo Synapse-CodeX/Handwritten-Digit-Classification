@@ -12,7 +12,6 @@ This project focuses on classifying handwritten digits from the MNIST dataset us
 - [Model Architecture](#model-architecture)
 - [Installation](#installation)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Dataset
