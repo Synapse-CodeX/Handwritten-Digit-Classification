@@ -55,12 +55,6 @@ To run the project, follow these steps:
    ```bash
    pip install -r requirements.txt
 
-## Usage 
-
-Once the environment is set up, you can train the model using the following command:
-```bash
-python train.py
-
 ## Results
 
 After training, the model achieves an accuracy of 97.37% on the test set. The model's performance can be improved by experimenting with different architectures, optimizers, and hyperparameters.
@@ -68,5 +62,8 @@ After training, the model achieves an accuracy of 97.37% on the test set. The mo
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](License) file for details.
+
+
+
 
 
