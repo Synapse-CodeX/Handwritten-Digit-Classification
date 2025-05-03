@@ -4,9 +4,9 @@
     <title>MNIST Digit Classifier</title>
 </head>
 <body>
-    <h2>Upload a Handwritten Digit Image</h2>
+    <h2>Upload a Handwritten Digit Image (28x28 grayscale)</h2>
     <form action="/predict" method="post" enctype="multipart/form-data">
-        <input type="file" name="file" accept="image/*">
+        <input type="file" name="file" accept="image/*" required>
         <input type="submit" value="Predict">
     </form>
 
