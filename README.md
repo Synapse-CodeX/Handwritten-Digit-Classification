@@ -18,7 +18,7 @@ This project focuses on classifying handwritten digits from the MNIST dataset us
 
 The dataset used in this project is the **MNIST** dataset, which consists of 28x28 pixel grayscale images of handwritten digits (0-9). Each image is labeled with the corresponding digit.
 
-- **Training Set**: 60,000 images
+- **Training Set**: 60,000 images 
 - **Test Set**: 10,000 images
 
 ## Technologies Used
